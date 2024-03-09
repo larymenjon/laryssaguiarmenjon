@@ -1,4 +1,4 @@
-/*1 - Cor das letras*/
+/*1 - Cor das letras do titulo*/
 
 #tittle {
   color: #faf8f8;
@@ -25,7 +25,6 @@ a {
   margin: 25px;
 }
 /* Mudar a cor do fundo da página*/
-
 body {
   background-color: #a633b5;
 }
@@ -37,18 +36,19 @@ button {
   background-color: #ffffff;
   font-size: 30px;
 }
-
+/* Informações do texto que forem h1*/
 h1 {
   color: #38b6ff;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
 }
-
+/* Informações do texto que forem h3*/
 h3 {
   color: rgb(255, 255, 255);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
+/* Informações do texto que forem h2*/
 h2 {
   color: rgb(255, 255, 255);
   font-family: Arial, Helvetica, sans-serif;
