@@ -1,17 +1,7 @@
 /*1 - Cor das letras*/
 
-h1 {
-  color: #fafafa;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 #tittle {
   color: #faf8f8;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-h2 {
-  color: rgb(252, 252, 252);
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -40,10 +30,6 @@ body {
   background-color: #a633b5;
 }
 
-a {
-  color: #ffffff;
-  font-family: Arial, Helvetica, sans-serif;
-}
 button {
   width: 420px;
   height: 55px;
@@ -52,85 +38,18 @@ button {
   font-size: 50px;
 }
 
-body {
-  background-color: #a633b5;
-}
-
-a {
-  color: #ffffff;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 h1 {
   color: #38b6ff;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
 }
 
-#tittle {
-  color: #ffffff;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-h2 {
-  color: rgb(255, 255, 255);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-/* 2 - Fonte do texto*/
-
-#sans-serif {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
-}
 h3 {
   color: rgb(255, 255, 255);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
-
-body {
-  background-color: #a633b5;
-}
-
-a {
-  color: #ffffff;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-h1 {
-  color: #38b6ff;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
-}
-
-#tittle {
-  color: #ffffff;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 h2 {
   color: rgb(255, 255, 255);
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-/* 2 - Fonte do texto*/
-
-#sans-serif {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
-}
-h3 {
-  color: rgb(255, 255, 255);
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-}
-
-body {
-  background-color: #a633b5;
-}
-
-a {
-  color: #ffffff;
   font-family: Arial, Helvetica, sans-serif;
 }
